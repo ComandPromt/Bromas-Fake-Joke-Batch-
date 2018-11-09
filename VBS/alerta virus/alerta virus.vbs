@@ -1,0 +1,1 @@
+lol=msgbox("Un virus elimino el 99% de sus archivos",16,"Mensaje de Alerta de Windows" )

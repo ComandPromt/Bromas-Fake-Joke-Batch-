@@ -1,0 +1,1 @@
+lol=msgbox ("Un virus muy peligroso ha sido detectado en su computadora. Presione SI para formatear su disco duro o NO para salvar sus datos, reiniciar el sistema y posteriormente formatearlo.",20,"Warning")
